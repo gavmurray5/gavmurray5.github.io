@@ -1,0 +1,18 @@
+<html>
+
+  <head>
+      <title>MLB Datawrapper Visual's home page</title>
+
+  </head>
+
+  <body>
+
+    <h1>2023 MLB MVP Race in the National League</h1>
+
+    <p><iframe title="Highest Wins Above Replacement (WAR) Amongst 2023 National League MLB MVP Candidates " aria-label="Grouped Bars" id="datawrapper-chart-9XjwT" src="https://datawrapper.dwcdn.net/9XjwT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script></p>
+
+  </body>
+
+</html>
+
