@@ -22,7 +22,7 @@ body {
         padding-right: 10px;
     }
 
-    . somenewclass {
+    .somenewclass {
         font-family: Franklin-Bold;
     }
 
@@ -59,7 +59,7 @@ body {
     .publish-date {
         font-size: 14px;
         margin-top: 0;
-        color: #666666
+        color: #666666;
     }
 
 
